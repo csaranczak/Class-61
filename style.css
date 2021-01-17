@@ -1,0 +1,16 @@
+#app{
+    text-align: center;
+}
+.line{
+    height: 10px;
+    background-color: darkorchid;
+    width: 50px;
+    margin: auto;
+    
+}
+#game{
+    text-align: center;
+}
+#diaglow{
+    text-align: center;
+}
